@@ -32,7 +32,7 @@ The **Rock-Paper-Scissors Game** is a classic hand game simulation, enhanced wit
 ## Screenshots
 
 - **Img 1 :** Choose the option
-![choose option]()
+![choose option](https://github.com/Rubin737/Rock-Paper-Scissors/blob/master/Screenshots/sample1.png?raw=true)
 
 - **Img 2 :** Game result
-![choose option]()
+![choose option](https://github.com/Rubin737/Rock-Paper-Scissors/blob/master/Screenshots/sample2.png?raw=true)
